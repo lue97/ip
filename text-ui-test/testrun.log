@@ -1,0 +1,16 @@
+Test Run By mono on Wed Jan 20 21:50:38 2021
+Native configuration is x86_64-unknown-cygwin
+
+		===  tests ===
+
+Schedule of variations:
+    unix
+
+Running target unix
+Using /usr/share/dejagnu/baseboards/unix.exp as board description file for target.
+Using /usr/share/dejagnu/config/unix.exp as generic interface file for target.
+WARNING: Couldn't find tool config file for unix, using default.
+
+		===  Summary ===
+
+runtest completed at Wed Jan 20 21:50:38 2021
